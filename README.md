@@ -1,1 +1,1 @@
-input('hehe')
+Student
